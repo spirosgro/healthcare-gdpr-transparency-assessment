@@ -1,0 +1,11 @@
+ID,Finding,Severity,Evidence boundary,Recommended action,Priority
+F-01,The public notice states a July 2022 review date,Medium,Public page metadata only,Run a controlled legal and operational refresh and publish a change log,1
+F-02,Multiple audiences and processing contexts share one long notice,High,Public notice structure,Create layered audience-specific summaries linked to the full notice,1
+F-03,Purposes legal bases data categories recipients and retention are not consistently mapped together,High,Public notice content,Publish a purpose-level processing matrix,1
+F-04,Controller responsibility across group entities may be difficult for a reader to determine,Medium,Public entity list,Add an entity-service-controller matrix and explain joint or separate roles where applicable,1
+F-05,Retention combines specific periods with broad fallback criteria,Medium,Public retention section,Publish a record-category retention schedule with legal source and deletion event,2
+F-06,International transfer safeguards are described without a clear safeguard-copy request route,Medium,Public transfer section,Add transfer destinations mechanisms and a safeguard information request route,2
+F-07,Special-category processing wording combines several conditions and a consent fallback,Medium,Public lawful-basis section,Separate Article 6 grounds from Article 9 conditions by purpose,2
+F-08,Contextual notices are fragmented across careers applications cookies CCTV calls and research,Medium,Public digital channels,Create a notice inventory with ownership versioning and cross-links,2
+F-09,The notice says automated decisions are not used but gives no change-control commitment,Low,Public rights section,Require privacy review and notice update before any material automated decision use,3
+F-10,The notice lacks an at-a-glance rights and contact journey,Low,Public rights section,Add a concise rights hub with expected steps identification needs and escalation route,3

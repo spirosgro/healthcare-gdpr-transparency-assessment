@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this portfolio case study, please cite it as follows."
+title: "Healthcare Privacy Notice GDPR Analysis"
+type: report
+authors:
+  - family-names: Grouztidis
+    given-names: Spyridon
+year: 2026
+license: proprietary
+abstract: "An evidence-based GDPR transparency and notice-design assessment of a public healthcare privacy policy."
